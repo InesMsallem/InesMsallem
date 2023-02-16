@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inesmsallem&label=Profile%20views&color=0e75b6&style=flat" alt="inesmsallem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inesmsallem" alt="inesmsallem" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **ines.msallem@esprit.tn**
+- 📫 How to reach me : **ines.msallem@esprit.tn**
 
-- ⚡ Fun fact **UNIX is simple. It just takes a genius like me to understand its simplicity**
-
+- ⚡ **UNIX is simple. It just takes a genius like me to understand its simplicity**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inesmsallem" alt="inesmsallem" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/msallem-in%c3%a8s-1a7363200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/msallem-in%c3%a8s-1a7363200/" height="30" width="40" /></a>
