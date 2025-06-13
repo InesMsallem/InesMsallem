@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me : **ines.msallem@esprit.tn**
+- 📫 How to reach me : **ines.msalllem@gmail.com**
 
 - ⚡ **UNIX is simple. It just takes a genius like me to understand its simplicity**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inesmsallem" alt="inesmsallem" /></a> </p>
